@@ -1,0 +1,36 @@
+#bg_app{
+background-color: #666;
+}
+
+#frm_right_top{
+background-color: #888;
+}
+#frm_right_bottom{
+background-color: #888;
+}
+#frm_right_main{
+background-color: #888;
+}
+
+
+
+#frm_page1{
+background-color: #aa0dbf;
+}
+
+#frm_page2{
+background-color: #08c8cf;
+}
+
+#frm_page3{
+background-color: #30e004;
+}
+
+#frm_left{
+background-color: #888;
+}
+
+#frm_left_top{
+background-color: #999;
+}
+

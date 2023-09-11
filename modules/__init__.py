@@ -1,0 +1,1 @@
+from .interface import Ui_MainWindow

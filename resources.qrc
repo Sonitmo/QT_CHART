@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>resources/icons/icons8-restore-down-32.png</file>
+    <file>resources/icons/icons8-minimize-30.png</file>
+    <file>resources/icons/cross.png</file>
+    <file>resources/icons/icons8-restore-down-32.png</file>
+    <file>resources/icons/menu-burger.png</file>
+    <file>resources/icons/address-book-blue.png</file>
+    <file>resources/icons/anchor.png</file>
+    <file>resources/icons/android.png</file>
+    <file>resources/icons/animal.png</file>
+    <file>resources/icons/animal-dog.png</file>
+    <file>resources/icons/animal-monkey.png</file>
+  </qresource>
+</RCC>
